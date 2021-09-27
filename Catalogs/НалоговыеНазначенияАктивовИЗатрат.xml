@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.10">
+	<Catalog uuid="58b093af-7f1b-4170-8a31-6683a95e221b">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НалоговыеНазначенияАктивовИЗатрат" category="Object">
+				<xr:TypeId>05ebecaa-1347-4f77-8633-afee20ab0eb9</xr:TypeId>
+				<xr:ValueId>d63f5500-3da0-4a75-9554-3991da2b3c8f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НалоговыеНазначенияАктивовИЗатрат" category="Ref">
+				<xr:TypeId>38c09eec-7c3c-4f05-b1d0-c4885b61f041</xr:TypeId>
+				<xr:ValueId>9030b813-e157-4119-909b-8e5e3394b213</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НалоговыеНазначенияАктивовИЗатрат" category="Selection">
+				<xr:TypeId>459c1d93-3add-4757-8b82-cafd95a2add3</xr:TypeId>
+				<xr:ValueId>798ebf38-ed9c-4624-b4fb-a06eef1ba3a7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НалоговыеНазначенияАктивовИЗатрат" category="List">
+				<xr:TypeId>fbc651e1-e4ba-4a67-bae7-355458da1265</xr:TypeId>
+				<xr:ValueId>177653a6-6d7a-45d9-9752-589e82ce31ec</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НалоговыеНазначенияАктивовИЗатрат" category="Manager">
+				<xr:TypeId>e68b4720-bdad-4603-83a0-54aa395725c8</xr:TypeId>
+				<xr:ValueId>6dd6be08-4584-40b9-b33d-06ccaf390dc4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>НалоговыеНазначенияАктивовИЗатрат</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>a0d238e8-d0c3-4566-9184-0dd7dada5a76</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
